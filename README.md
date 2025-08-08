@@ -1,5 +1,5 @@
 # rcraid-dkms
-AMD RAIDXpert driver as DKMS package
+AMD RAIDXpert driver as DKMS package 2
 
 Foreword:
 ===========
